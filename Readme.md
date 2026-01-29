@@ -2,6 +2,9 @@
 
 This project is a simple HTML and CSS-based resume page. It demonstrates basic web development skills using only HTML and CSS.
 
+# Application can be viewed at below URL :
+https://html-resume-page-assignment-psi.vercel.app/
+
 ## Setup Steps
 
 1. **Clone or Download the Repository**
